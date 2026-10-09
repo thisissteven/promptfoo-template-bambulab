@@ -1,5 +1,7 @@
 # Promptfoo Red Team Template — Bambu Lab Chatbot
 
+[中文文档](README.zh.md)
+
 A ready-to-use Promptfoo red teaming template for the Bambu Lab live customer-service chatbot.
 
 ## Files
