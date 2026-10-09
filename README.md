@@ -70,7 +70,7 @@ Opens the web UI with pass/fail status, latency, and full responses. Under vulne
 promptfoo share <eval-id>
 ```
 
-Placeholder shared links (update after running):
+## Example results
 
-- `.com` target: `https://www.promptfoo.app/eval/eval-yaf-2026-10-08T16:41:26`
-- `.cn` target: `https://www.promptfoo.app/eval/eval-sQk-2026-10-08T16:42:18`
+- `.com` target: <https://www.promptfoo.app/eval/eval-yaf-2026-10-08T16:41:26>
+- `.cn` target: <https://www.promptfoo.app/eval/eval-sQk-2026-10-08T16:42:18>
